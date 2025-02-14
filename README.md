@@ -1,6 +1,5 @@
 # Skriptor
-Addon for Skript that allows you obfuscate your scripts with strongest encryption.
-
+Addon for Skript that allows you obfuscate your scripts with strongest encryption, also works with other addons by encrypting and loading their code.
 
 > [!IMPORTANT]
 > This plugin requires Skript 2.6 - 2.9.x to work correctly.
