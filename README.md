@@ -11,8 +11,7 @@ Addon for Skript that allows you obfuscate your scripts with strongest encryptio
 
 # Examples & Documentation
 
-GitHub Wiki: 
-...
+GitHub Wiki: https://github.com/avesatanaa/Skriptor/wiki
 
 # Links
 
