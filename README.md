@@ -10,6 +10,7 @@ Addon for Skript that allows you obfuscate your scripts with strongest encryptio
 # Examples & Documentation
 
 GitHub Wiki: https://github.com/avesatanaa/Skriptor/wiki
+
 [![SkriptHubViewTheDocs](http://skripthub.net/static/addon/ViewTheDocsButton.png)](http://skripthub.net/docs/?addon=Skriptor)
 
 # Links
