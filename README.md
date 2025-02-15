@@ -1,4 +1,4 @@
-# Skriptor
+# Skriptor 🔰
 Addon for Skript that allows you obfuscate your scripts with strongest encryption, also works with other addons.
 
 > [!IMPORTANT]
